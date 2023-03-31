@@ -1,0 +1,86 @@
+[
+  {
+    "titulo": "Baleia Orca",
+    "imagem": "/assets/imagens/galeria/foto-1.jpg",
+    "id": "1",
+    "tag": "Baleia Orca"
+  },
+  {
+    "titulo": "Baleia Azul",
+    "imagem": "/assets/imagens/galeria/foto-2.jpg",
+    "id": "2",
+    "tag": "Baleia Azul"
+  },
+  {
+    "titulo": "Baleia Orca",
+    "imagem": "/assets/imagens/galeria/foto-3.jpg",
+    "id": "3",
+    "tag": "Baleia Orca"
+  },
+  {
+    "titulo": "Baleia Orca",
+    "imagem": "/assets/imagens/galeria/foto-4.jpg",
+    "id": "4",
+    "tag": "Baleia Orca"
+  },
+  {
+    "titulo": "Tubarão Branco",
+    "imagem": "/assets/imagens/galeria/foto-5.jpg",
+    "id": "5",
+    "tag": "Tubarão Branco"
+  },
+  {
+    "titulo": "Raia Manta",
+    "imagem": "/assets/imagens/galeria/foto-6.jpg",
+    "id": "6",
+    "tag": "Raia Manta"
+  },
+  {
+    "titulo": "Tubarão Branco",
+    "imagem": "/assets/imagens/galeria/foto-7.jpg",
+    "id": "7",
+    "tag": "Tubarão Branco"
+  },
+  {
+    "titulo": "Baleia Azul",
+    "imagem": "/assets/imagens/galeria/foto-8.jpg",
+    "id": "8",
+    "tag": "Baleia Azul"
+  },
+  {
+    "titulo": "Baleia Orca",
+    "imagem": "/assets/imagens/galeria/foto-9.jpg",
+    "id": "9",
+    "tag": "Baleia Orca"
+  },
+  {
+    "titulo": "Água Viva Juba de Leão",
+    "imagem": "/assets/imagens/galeria/foto-10.jpg",
+    "id": "10",
+    "tag": "Água Viva Juba de Leão"
+  },
+  {
+    "titulo": "Tubarão Branco",
+    "imagem": "/assets/imagens/galeria/foto-11.jpg",
+    "id": "11",
+    "tag": "Tubarão Branco"
+  },
+  {
+    "titulo": "Raia Manta",
+    "imagem": "/assets/imagens/galeria/foto-12.jpg",
+    "id": "12",
+    "tag": "Raia Manta"
+  },
+  {
+    "titulo": "Baleia Azul",
+    "imagem": "/assets/imagens/galeria/foto-13.jpg",
+    "id": "13",
+    "tag": "Baleia Azul"
+  },
+  {
+    "titulo": "Água Viva Juba de Leão",
+    "imagem": "/assets/imagens/galeria/foto-14.jpg",
+    "id": "14",
+    "tag": "Água Viva Juba de Leão"
+  }
+]
